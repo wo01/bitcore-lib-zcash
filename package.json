@@ -66,6 +66,10 @@
     {
       "name": "Ian Munoz",
       "email": "ian.org@gmail.com"
+    },
+    {
+      "name": "WO",
+      "email": "wo@ko-to.org"
     }
   ],
   "keywords": [
@@ -86,7 +90,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/zcash-hackworks/bitcore-lib-zcash.git"
+    "url": "https://github.com/wo01/bitcore-lib-zcash.git"
   },
   "browser": {
     "request": "browser-request"
