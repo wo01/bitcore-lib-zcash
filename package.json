@@ -102,10 +102,10 @@
     "buffer-compare": "=1.0.0",
     "elliptic": "=3.0.3",
     "inherits": "=2.0.1",
-    "lodash": "=3.10.1"
+    "lodash": "^4.17.11"
   },
   "devDependencies": {
-    "bitcore-build-zcash": "str4d/bitcore-build-zcash",
+    "bitcore-build-zcash": "github:str4d/bitcore-build-zcash",
     "brfs": "^1.2.0",
     "chai": "^1.10.0",
     "gulp": "^3.8.10",
